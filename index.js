@@ -122,5 +122,6 @@ function showPerson(person) {
     img.src = item.img;
     author.textContent = item.name;
     job.textContent = item.job;
-    info.textContent = item.text;
+  info.textContent = item.text;
+  console.log('testing changes');
 }
