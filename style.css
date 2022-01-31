@@ -260,7 +260,7 @@ main {
   text-transform: capitalize;
   border-radius: .5rem;
   transition: var(--transition);
-  border-color: var(--clr-primary-5);
+  border-color: var(--clr-primary-8);
   cursor: pointer;
 }
 .random-btn:hover {

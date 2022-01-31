@@ -21,7 +21,7 @@ const reviews = [
     {
       id: 3,
       name: "peter jones",
-      job: "intern",
+      job: "junior manager",
       img:
         "https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg",
       text:
@@ -43,7 +43,7 @@ const reviews = [
       img:
         "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       text:
-        "The lift that sustains the kite in flight is generated when air moves around the kite's surface, producing low pressure above and high pressure below the wings. The interaction with the wind also generates horizontal drag along the direction of the wind. ",
+        "The lift that sustains the kite in flight is generated when air moves around the kite's surface, producing low pressure above and high pressure below the wings. ",
     },
     {
       id: 6,
